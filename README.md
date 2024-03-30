@@ -1,20 +1,20 @@
-#A simple Todo application built with React and Redux, allowing users to manage their tasks efficiently.
+**A simple Todo application built with React and Redux, allowing users to manage their tasks efficiently.**
 
-#Features
+**Features**
 1.Add new tasks
 2.Mark tasks as completed
 3.Remove tasks
 
 
-#Installation
+**Installation**
 1.Clone the repository:
 npm install
-Usage:
+**Usage:**
 Start the development server:
 npm start
 Open your browser and navigate to http://localhost:3000 to view the app.
 
-Technologies Used
+((Technologies Used**
 React
 Redux
 HTML5
